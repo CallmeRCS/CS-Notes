@@ -1,0 +1,3 @@
+- Reusing passwords for multiple systems, especially using the same password for business and personal use.
+- Writing down passwords and leaving them in unsecured areas.
+- Sharing a password with tech support or a co-worker.

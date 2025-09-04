@@ -1,0 +1,2 @@
+- Manages **sessions/communications** between applications.
+- Establishes, maintains, and terminates connections.

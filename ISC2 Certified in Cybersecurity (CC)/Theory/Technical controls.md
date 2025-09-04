@@ -1,0 +1,1 @@
+Also know as managerial controls are directives, guidelines, or advisories aimed at the people within the organization. They provide frameworks, constraints, and standards for humen behavior and should cover the entire scope of the organization's activities and its interactions with external parties and stakeholders.

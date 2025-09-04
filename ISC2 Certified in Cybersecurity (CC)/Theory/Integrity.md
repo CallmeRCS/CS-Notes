@@ -1,0 +1,1 @@
+Integrity is the property of information whereby it is recorded, used, and maintained in a way that ensures its ==completeness, accuracy, internal consistency and usefulness for a stated purpose==.

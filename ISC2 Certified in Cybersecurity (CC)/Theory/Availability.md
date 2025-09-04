@@ -1,0 +1,1 @@
+Availability means that systems and data are accessible at the time users need them.

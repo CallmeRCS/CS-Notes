@@ -1,0 +1,1 @@
+Also called logical control(s) are security controls that computer systems and networks directly implement

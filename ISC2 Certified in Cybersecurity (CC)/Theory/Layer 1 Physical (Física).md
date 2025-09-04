@@ -1,0 +1,2 @@
+- Transmits raw bits over physical medium (cables, radio, fiber).
+- Deals with voltages, connectors, and physical topology.

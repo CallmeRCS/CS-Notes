@@ -1,0 +1,2 @@
+==Understand that the first labor and duty of the BC is to sustain operations while recovering from an incident or disruption==. A main piece in these process will be communication, including multiple contact methodologies and backup numbers in case of disruption of power or communications. 
+>No matter how many times they have flown, without fail, pilots go through a checklist before take-off.

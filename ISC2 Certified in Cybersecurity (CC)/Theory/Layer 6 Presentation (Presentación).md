@@ -1,0 +1,2 @@
+- Translates data into a format understood by applications.
+- Handles encryption, compression, encoding.

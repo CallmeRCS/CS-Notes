@@ -1,0 +1,2 @@
+- Closest to the user; provides services and interfaces.
+- Protocols: HTTP, FTP, SMTP, DNS.

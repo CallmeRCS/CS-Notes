@@ -1,0 +1,4 @@
+- Layers 2 (MAC addresses).
+- Layers 3 (IP ranges).
+- Layers 7 (Application programming interface API and application firewalls).
+- Layers 4 would be the traditional early firewalls implementations.

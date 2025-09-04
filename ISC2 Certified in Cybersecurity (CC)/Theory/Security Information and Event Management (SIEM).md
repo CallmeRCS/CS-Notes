@@ -1,0 +1,1 @@
+Involve the use of tools that collect information about the IT environmental from many disparate sources to better examine the overall security of the organization and streamline security efforts. This systems can be used along other components to maintain a defense-in-depth strategy as part of an overall information security program.

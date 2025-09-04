@@ -1,0 +1,6 @@
+- ==List of the BCP teams members==, including multiple contact methods and backups members.
+- ==Guidance for management==, including designation of authority for specific managers
+- ==Immediate response procedures and checklist.==
+- ==How / When== to enact the plan
+- ==Notification systems and call trees== for alerting personnel that the BCP is being enacted.
+- ==Contact numbers for critical members of the supply chain.==

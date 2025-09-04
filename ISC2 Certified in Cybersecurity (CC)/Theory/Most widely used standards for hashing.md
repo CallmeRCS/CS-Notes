@@ -1,0 +1,4 @@
+- **MD5** → roto, pero todavía aparece en preguntas → **Hash**.
+- **SHA-1** → inseguro, ya casi en desuso → **Hash**.
+- **SHA-2 (SHA-256, SHA-512, etc.)** → actual y recomendado → **Hash**.
+- **SHA-3** → sucesor de SHA-2 → **Hash**.

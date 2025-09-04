@@ -1,0 +1,5 @@
+- Cloud system infrastructure details and security standards
+- Customer right to audit legal and regulatory compliance by the Cloud Service Provider (CSP).
+- Service availability
+- Service performance
+- Data security and privacy.

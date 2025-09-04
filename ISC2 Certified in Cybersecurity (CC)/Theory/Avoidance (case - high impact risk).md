@@ -1,0 +1,4 @@
+Risk avoidance ==is the attempt to eliminate the risk entirely==. This could include ceasing operation for some or all of the activities of the organization that leave it exposed to a particular risk. Leadership may choose risk avoidance if the potential impact of a given risk is too high or if the likelihood of the risk being realized is simply too great
+
+Example:
+A company discovers that running its own **email server** exposes it to high risks of phishing, spam abuse, and data breaches. Instead of investing in complex controls to secure the server, the company decides to **completely avoid the risk** by migrating all corporate email to a trusted cloud provider (e.g., Microsoft 365 or Google Workspace). By doing this, the company eliminates the exposure associated with managing and securing its own email infrastructure.

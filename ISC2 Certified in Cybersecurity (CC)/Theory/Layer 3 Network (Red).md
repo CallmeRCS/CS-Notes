@@ -1,0 +1,2 @@
+- Handles **routing and addressing (IP addresses)**, packet forwarding between networks.
+- Protocols: IP, ICMP, RIP, OSPF.

@@ -1,0 +1,2 @@
+- Ensures reliable delivery, sequencing, and error recovery.
+- Protocols: TCP (reliable), UDP (unreliable, faster).

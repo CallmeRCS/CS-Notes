@@ -1,0 +1,1 @@
+Confidentiality means permitting authorized access to information while at the same time protecting it from improper disclosure.

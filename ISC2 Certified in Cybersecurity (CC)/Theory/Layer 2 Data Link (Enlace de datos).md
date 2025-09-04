@@ -1,0 +1,2 @@
+- Responsible for **MAC addresses, frames, error detection (CRC)**, and direct node-to-node delivery.
+- Protocols: Ethernet, PPP, ARP.

@@ -1,0 +1,1 @@
+Those are made it and used to address security needs using physical hardware devices, such as badge readers, architectural features of buildings and facilities, and specific security actions taken by staff.

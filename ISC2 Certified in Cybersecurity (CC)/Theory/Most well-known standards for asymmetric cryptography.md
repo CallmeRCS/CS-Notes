@@ -1,0 +1,4 @@
+- **RSA (Rivest–Shamir–Adleman)** → el más clásico → **Asimétrica**.
+- **ECC (Elliptic Curve Cryptography)** → más moderno y eficiente que RSA → **Asimétrica**.
+- **Diffie–Hellman** → intercambio seguro de claves → **Asimétrica**.
+- **DSA (Digital Signature Algorithm)** → usado para firmas digitales → **Asimétrica**.

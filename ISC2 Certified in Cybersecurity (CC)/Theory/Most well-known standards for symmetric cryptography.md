@@ -1,0 +1,4 @@
+- **AES (Advanced Encryption Standard)** → AES-128, AES-192, AES-256 → **Simétrica** (bloques).
+- **DES (Data Encryption Standard)** → obsoleto, 56 bits → **Simétrica**.
+- **3DES (Triple DES)** → versión más segura que DES, pero reemplazada por AES → **Simétrica**.
+- **Blowfish / Twofish** → alternativas a AES → **Simétrica**.
