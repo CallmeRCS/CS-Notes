@@ -1,9 +1,3 @@
-# 📘 Examen de Simulacro – Nivel 2
-
-**ISC2 Certified in Cybersecurity (CC)**
-
----
-
 **Pregunta 1:**  
 Un atacante logra ingresar a la red corporativa mediante credenciales robadas de un empleado. ¿Qué control hubiera reducido significativamente este riesgo?  
 A) Uso de contraseñas de al menos 16 caracteres  
