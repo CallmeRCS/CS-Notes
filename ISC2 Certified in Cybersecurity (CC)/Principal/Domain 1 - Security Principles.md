@@ -14,6 +14,8 @@ Is the right of an individual to control the distribution of information about t
 A excellent example of laws and regulations within countries is the "==General Data Protection Regulation==" or the GDPR. This is a law with multinational implications around the European Union. Which applies to all organizations, foreign or domestic, doing business in the EU or any person in the EU.
 
 Another example is HIPAA (Health Insurance Portability and Accountability), in the United States, HIPAA controls how the privacy of medical information must be maintained.
+
+And a new and last one example is the law 8968 from Costa Rica called "Ley de protección de la persona frente al tratamiento de sus datos personales".
 ### Introduction to Risk Management
 
 ![[Pasted image 20240729171500.png]]
